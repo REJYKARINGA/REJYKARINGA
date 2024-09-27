@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/REJYKARINGA/iPortfolio.git](https://github.com/REJYKARINGA/iPortfolio.git)
 
-- 💬 Ask me about **JAVASCRIPT,NODEJS EXPRESS AND MONGODB**
+- 💬 Ask me about **REACT, TYPESCRIPT , JAVASCRIPT,NODEJS EXPRESS AND MONGODB**
 
-- 📫 How to reach me **KP.REJY1972@GMAIL.COM**
+- 📫 How to reach me **REJYKARINGA2000@GMAIL.COM**
 
 - ⚡ Fun fact **HELPING MY COWORKERS FOR DO THEIR CODE EASILY**
 
