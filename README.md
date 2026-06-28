@@ -1,70 +1,106 @@
-<h1 align="center">Hi 👋, I'm Rejy Karinga</h1>
-<h3 align="center">Full Stack Developer specializing in React, Laravel & Node.js</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+# Rejy Karinga
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rejykaringa&label=Profile%20views&color=0e75b6&style=flat" alt="rejykaringa" /> </p>
+**Full Stack Developer** · React · Laravel · Node.js
 
-- 🔭 Currently working at **Miraj Media, Bahrain** as Full Stack Developer
-- 🌱 Building **Event Management Systems** serving 11,000+ users
-- 💼 **2+ years** of professional development experience
-- 👨‍💻 Portfolio: [https://github.com/REJYKARINGA](https://github.com/REJYKARINGA)
-- 💬 Ask me about **React.js, Laravel, Node.js, Express, MongoDB, MySQL, TypeScript**
-- 🚀 Specialized in **MERN Stack & PHP Laravel** with production-grade applications
-- 📫 Reach me at **rejykaringa2000@gmail.com**
-- ⚡ Fun fact: **I love helping teammates write cleaner, more efficient code**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rejy-karinga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/REJYKARINGA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/rejiman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rejykaringa2000@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rejykaringa&style=flat-square&color=0e75b6)](https://github.com/REJYKARINGA)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rejy-karinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rejy karinga" height="30" width="40" /></a>
-<a href="https://github.com/REJYKARINGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rejykaringa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rejitom.tom.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/a_joo_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/rejiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+---
 
-<!-- Languages -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+## About Me
 
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+Full Stack Developer at **Miraj Media, Bahrain** with 2+ years of experience building production-grade web applications. I specialize in the **MERN stack** and **PHP Laravel**, with a track record of shipping scalable platforms that serve thousands of users.
 
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+I care about clean architecture, readable code, and helping teams level up their engineering practices.
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
+## Experience Highlights
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejykaringa&show_icons=true&locale=en&layout=compact&theme=radical" alt="rejykaringa" /></p>
+| | |
+|---|---|
+| 🏢 **Current Role** | Full Stack Developer @ Miraj Media, Bahrain |
+| 🚀 **Scale** | Built systems serving **11,000+ concurrent users** |
+| 🛠️ **Stack** | MERN · Laravel · TypeScript · MySQL · AWS |
+| 🎯 **Focus** | Event platforms · E-commerce · Cross-platform apps |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejykaringa&show_icons=true&locale=en&theme=radical" alt="rejykaringa" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejykaringa&theme=radical" alt="rejykaringa" /></p>
+## Featured Projects
 
-<h3 align="left">Recent Projects:</h3>
+### 🌐 WPC Energy Congress 2026
+Event management platform for the World Petroleum Council Congress — end-to-end delegate registration, scheduling, and content delivery.  
+`Laravel` `React` `MySQL`  
+🔗 [wpc.mirajmedia.com](https://wpc.mirajmedia.com)
 
-- 🎯 **Event Management System** - Comprehensive platform for WPC Energy Congress 2026 (wpc.mirajmedia.com)
-- 🎪 **MECC Exhibition Platform** - Handled 11,000+ attendees with automated workflows (mecconline.com)
-- 🛒 **E-Commerce Platform (NERITT)** - Multi-role marketplace with Laravel & React
-- 📱 **Matrimonial Mobile App** - Cross-platform Flutter application
-- 
+### 🎪 MECC Exhibition Platform
+Handled **11,000+ attendees** with automated registration workflows, badge generation, and real-time reporting.  
+`Node.js` `React` `MongoDB`  
+🔗 [mecconline.com](https://mecconline.com)
+
+### 🛒 NERITT — Multi-role Marketplace
+Full-featured e-commerce platform with separate flows for buyers, sellers, and admins — built with role-based access control throughout.  
+`Laravel` `React` `MySQL`
+
+### 📱 Matrimonial Mobile App
+Cross-platform mobile application with profile matching, chat, and privacy controls.  
+`Flutter` `Node.js` `MongoDB`
+
+---
+
+## Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Database & Cloud**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rejykaringa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejykaringa&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rejykaringa&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to interesting problems — reach me at [rejykaringa2000@gmail.com](mailto:rejykaringa2000@gmail.com)*
+
+</div>
